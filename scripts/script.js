@@ -1,6 +1,4 @@
 // Created with Open Weather Map free API
-// For the Odin Project cirriculumn
-//
 // API Documentation: https://openweathermap.org/forecast5#JSON
 
 const container = document.getElementById('weatherContainer');
